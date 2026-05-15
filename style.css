@@ -21,6 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -52,10 +59,22 @@ body {
     background-color: #FFFFFF;
     padding: 1%;
     margin: 1%;
-    width: 300px;
+    width: 250px;
     text-align: center;
     border-radius: 7px;
+    display: flex;
+    flex-direction: column;
 }
+
+.game-card h1 {
+      min-height: 60px;                               
+      overflow: hidden;
+}                    
+   
+.game-card p {
+    height: 80px;                                   
+    overflow: hidden;
+}   
 
 .game-card:hover {
     cursor: pointer;
