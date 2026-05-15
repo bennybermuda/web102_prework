@@ -237,7 +237,7 @@ const gameSearch = document.getElementById("game-search");
 function filterSearch(event) {
     deleteChildElements(gamesContainer);
 
-    const inputValue = event.target.value.toLowerCase();
+    const inputValue = event.target.value;
     //const inputLength = length(inputValue)
 
     if (inputValue.length === 0) {
