@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkcDU5OTAzNHB6OHB1emhlOGZscGkzdnBxdjhuazY4aWR3YWdjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qGC9WDChRAlS1oyP0q/giphy.gif
+![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkcDU5OTAzNHB6OHB1emhlOGZscGkzdnBxdjhuazY4aWR3YWdjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qGC9WDChRAlS1oyP0q/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
