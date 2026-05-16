@@ -23,14 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFkcDU5OTAzNHB6OHB1emhlOGZscGkzdnBxdjhuazY4aWR3YWdjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qGC9WDChRAlS1oyP0q/giphy.gif)
+![me](LAUX_WEB102_PREREQ.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap
 
 ## Notes
 
